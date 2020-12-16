@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=SuyeonKim%20&fontSize=90&animation=fadeIn)
 
+</br>
 <div aling="center"> 
   
 [![Tech Blog Badge](https://img.shields.io/badge/Tech-Link717's_Blog-brightgreen)](https://velog.io/@link717)
@@ -22,7 +23,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer&text=&fontSize=90)
 
 <!--
 **Link717/Link717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
