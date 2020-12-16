@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=SuyeonKim%20&fontSize=90&animation=fadeIn)
 
+<div aling="center"> 
   
 [![Tech Blog Badge](https://img.shields.io/badge/Tech-Link717's_Blog-brightgreen)](https://velog.io/@link717)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Notion-lightgrey)]()
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksy95433@gmail.com)](mailto:ksy95433@gmail.com)
-</br>
-</br>
+</div> 
 
 <h3>🌼 Kim Suyeon</h3>
 
