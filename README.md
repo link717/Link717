@@ -15,7 +15,7 @@
 </br>현재에 안주하기보다는 한 걸음이라도 나아가는 삶을 지향합니다.</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Link717&show_icons=true" height=170 />
+<img src="https://github-readme-stats.vercel.app/api?username=link717&show_icons=true" height=170 />
 
 <h3>🌼 Languages and Tools</h3>  
 
