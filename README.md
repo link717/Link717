@@ -22,12 +22,12 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=Apollo GraphQL&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/React Query-FF4154?logo=React Query&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Redux Saga-999999?logo=Redux Saga&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=Apollo GraphQL&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styled-components&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styled-components&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" />
 
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white" />
 
 </br>
 
